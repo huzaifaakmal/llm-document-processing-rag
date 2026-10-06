@@ -1,0 +1,312 @@
+Aturan Akademik Sintetis — Dataset Praktikum RAG 
+PERATURAN AKADEMIK MAHASISWA 
+Dokumen Sintetis Terstruktur untuk Praktikum Document Processing dan RAG 
+Versi Bahasa Formal — Tahun Akademik 2026/2027 
+ 
+Catatan: Dokumen ini disusun sebagai dataset pembelajaran dan bukan merupakan peraturan resmi 
+institusi tertentu. 
+  
+Aturan Akademik Sintetis — Dataset Praktikum RAG 
+BAB I — KETENTUAN UMUM 
+Pasal 1 — Definisi 
+(1) Satuan Kredit Semester, yang selanjutnya disingkat SKS, merupakan ukuran beban belajar mahasiswa 
+dalam satu semester. 
+(2) Indeks Prestasi Semester, yang selanjutnya disingkat IPS, merupakan ukuran capaian akademik 
+mahasiswa yang dihitung berdasarkan seluruh mata kuliah yang ditempuh dalam satu semester. 
+(3) Indeks Prestasi Kumulatif, yang selanjutnya disingkat IPK, merupakan ukuran capaian akademik 
+mahasiswa yang dihitung berdasarkan seluruh mata kuliah yang telah ditempuh. 
+(4) Nilai D merupakan nilai lulus terbatas, sedangkan nilai E merupakan nilai tidak lulus. 
+Pasal 2 — Beban dan Masa Studi 
+(1) Program sarjana memiliki beban studi sekurang-kurangnya 144 SKS. 
+(2) Masa studi normal program sarjana adalah 8 semester. 
+(3) Masa studi mahasiswa tidak boleh melebihi 14 semester aktif. Semester cuti akademik yang telah 
+memperoleh persetujuan tidak diperhitungkan sebagai semester aktif. 
+(4) Mahasiswa yang telah melampaui 14 semester aktif dinyatakan tidak memenuhi batas masa studi, 
+kecuali memperoleh keputusan khusus berdasarkan ketentuan akademik yang berlaku. 
+BAB II — REGISTRASI DAN KARTU RENCANA STUDI 
+Pasal 3 — Registrasi Administrasi 
+(1) Setiap mahasiswa wajib menyelesaikan registrasi administrasi pada awal semester sesuai dengan 
+kalender akademik. 
+(2) Mahasiswa hanya dapat melakukan registrasi akademik setelah registrasi administrasi dinyatakan 
+selesai. 
+(3) Mahasiswa yang belum menyelesaikan registrasi administrasi tidak diperkenankan melakukan 
+pengisian Kartu Rencana Studi. 
+Pasal 4 — Pengisian Kartu Rencana Studi 
+(1) Kartu Rencana Studi memuat mata kuliah yang akan ditempuh mahasiswa pada semester berjalan. 
+(2) Pengisian Kartu Rencana Studi harus memperoleh persetujuan dosen pembimbing akademik. 
+(3) Mahasiswa tidak diperkenankan mengambil mata kuliah yang memiliki jadwal perkuliahan yang 
+saling bertabrakan. 
+(4) Jumlah SKS yang dicantumkan dalam Kartu Rencana Studi tidak boleh melebihi batas maksimum 
+beban studi yang ditentukan berdasarkan IPS semester sebelumnya sebagaimana diatur dalam Pasal 8. 
+Pasal 5 — Perubahan Kartu Rencana Studi 
+(1) Mahasiswa dapat menambah atau membatalkan mata kuliah selama periode perubahan Kartu 
+Rencana Studi yang ditetapkan dalam kalender akademik. 
+Aturan Akademik Sintetis — Dataset Praktikum RAG 
+(2) Setelah periode perubahan Kartu Rencana Studi berakhir, perubahan mata kuliah hanya dapat 
+dilakukan karena alasan akademik yang dapat dipertanggungjawabkan dan setelah memperoleh 
+persetujuan ketua program studi. 
+Pasal 6 — Mata Kuliah Prasyarat 
+(1) Mata kuliah yang memiliki prasyarat hanya dapat diambil setelah mahasiswa dinyatakan lulus pada 
+mata kuliah yang menjadi prasyarat. 
+(2) Nilai minimum untuk mata kuliah prasyarat adalah C, kecuali kurikulum program studi menetapkan 
+nilai minimum yang lebih tinggi. 
+(3) Mahasiswa yang memperoleh nilai di bawah C pada mata kuliah prasyarat tidak diperkenankan 
+mengambil mata kuliah lanjutan yang mensyaratkan mata kuliah tersebut. 
+BAB III — BEBAN STUDI DAN PRESTASI AKADEMIK 
+Pasal 7 — Skala Prestasi Akademik 
+(1) IPS dan IPK dinyatakan dalam skala 0,00 sampai dengan 4,00. 
+(2) Bobot nilai A adalah 4,00; AB adalah 3,50; B adalah 3,00; BC adalah 2,50; C adalah 2,00; D adalah 1,00; 
+dan E adalah 0,00. 
+Pasal 8 — Batas Maksimum Beban Studi 
+(1) Mahasiswa yang memperoleh IPS sekurang-kurangnya 3,00 dapat mengambil beban studi paling 
+banyak 24 SKS pada semester berikutnya. 
+(2) Mahasiswa yang memperoleh IPS sekurang-kurangnya 2,50 tetapi kurang dari 3,00 dapat mengambil 
+beban studi paling banyak 21 SKS. 
+(3) Mahasiswa yang memperoleh IPS sekurang-kurangnya 2,00 tetapi kurang dari 2,50 dapat mengambil 
+beban studi paling banyak 18 SKS. 
+(4) Mahasiswa yang memperoleh IPS kurang dari 2,00 dapat mengambil beban studi paling banyak 15 
+SKS. 
+Pasal 9 — Peringatan dan Evaluasi Akademik 
+(1) Mahasiswa yang telah menyelesaikan sekurang-kurangnya 36 SKS dan memiliki IPK kurang dari 2,00 
+diberikan peringatan akademik. 
+(2) Mahasiswa yang memperoleh IPS kurang dari 2,00 selama dua semester berturut-turut wajib 
+mengikuti evaluasi akademik khusus. 
+(3) Peringatan akademik dan evaluasi akademik khusus dapat diberikan secara bersamaan apabila 
+mahasiswa memenuhi kedua kondisi tersebut. 
+Pasal 10 — Pengulangan Mata Kuliah 
+(1) Mata kuliah yang memperoleh nilai D atau E dapat diulang. 
+(2) Mata kuliah yang memperoleh nilai C dapat diulang paling banyak satu kali untuk tujuan perbaikan 
+nilai. 
+(3) Nilai yang digunakan dalam perhitungan IPK setelah pengulangan mata kuliah adalah nilai terakhir 
+yang diperoleh mahasiswa. 
+Aturan Akademik Sintetis — Dataset Praktikum RAG 
+BAB IV — PERKULIAHAN DAN KEHADIRAN 
+Pasal 11 — Kehadiran 
+(1) Mahasiswa wajib mengikuti sekurang-kurangnya 75 persen dari seluruh pertemuan terjadwal pada 
+mata kuliah reguler. 
+(2) Mahasiswa yang memiliki tingkat kehadiran kurang dari 75 persen pada mata kuliah reguler tidak 
+berhak mengikuti Ujian Akhir Semester. 
+(3) Untuk mata kuliah praktikum, program studi dapat menetapkan kehadiran minimum sebesar 80 
+persen. 
+(4) Mahasiswa yang memiliki tingkat kehadiran kurang dari 80 persen pada mata kuliah praktikum tidak 
+berhak mengikuti ujian praktikum akhir. 
+Pasal 12 — Ujian Tengah Semester 
+(1) Ujian Tengah Semester dapat diselenggarakan setelah sekurang-kurangnya tujuh pertemuan efektif. 
+(2) Mahasiswa yang mengikuti Ujian Tengah Semester wajib memenuhi persyaratan administrasi mata 
+kuliah. 
+Pasal 13 — Ujian Akhir Semester 
+(1) Ujian Akhir Semester dilaksanakan setelah materi pembelajaran semester diselesaikan. 
+(2) Hak mahasiswa untuk mengikuti Ujian Akhir Semester ditentukan berdasarkan pemenuhan 
+persyaratan kehadiran sebagaimana diatur dalam Pasal 11. 
+BAB V — EVALUASI DAN PERBAIKAN NILAI 
+Pasal 14 — Komponen Penilaian 
+(1) Nilai akhir mata kuliah dapat terdiri atas tugas, kuis, Ujian Tengah Semester, Ujian Akhir Semester, 
+proyek, praktikum, presentasi, partisipasi, atau bentuk evaluasi lainnya. 
+(2) Jumlah seluruh bobot komponen penilaian dalam satu mata kuliah harus sama dengan 100 persen. 
+Pasal 15 — Konversi Nilai 
+(1) Nilai akhir sekurang-kurangnya 85 dikonversi menjadi nilai A. 
+(2) Nilai akhir sekurang-kurangnya 80 tetapi kurang dari 85 dikonversi menjadi nilai AB. 
+(3) Nilai akhir sekurang-kurangnya 70 tetapi kurang dari 80 dikonversi menjadi nilai B. 
+(4) Nilai akhir sekurang-kurangnya 65 tetapi kurang dari 70 dikonversi menjadi nilai BC. 
+(5) Nilai akhir sekurang-kurangnya 55 tetapi kurang dari 65 dikonversi menjadi nilai C. 
+(6) Nilai akhir sekurang-kurangnya 40 tetapi kurang dari 55 dikonversi menjadi nilai D. 
+(7) Nilai akhir kurang dari 40 dikonversi menjadi nilai E. 
+Pasal 16 — Kelulusan Mata Kuliah 
+(1) Nilai minimum kelulusan untuk mata kuliah umum adalah D. 
+(2) Mata kuliah inti program studi dan mata kuliah yang menjadi prasyarat tugas akhir harus 
+memperoleh nilai sekurang-kurangnya C. 
+Aturan Akademik Sintetis — Dataset Praktikum RAG 
+Pasal 17 — Ujian Susulan 
+(1) Ujian susulan hanya dapat diberikan kepada mahasiswa yang tidak mengikuti ujian reguler karena 
+alasan yang dapat diverifikasi. 
+(2) Permohonan ujian susulan harus diajukan paling lambat tujuh hari kalender setelah jadwal ujian 
+reguler. 
+Pasal 18 — Klarifikasi Nilai 
+(1) Mahasiswa dapat mengajukan klarifikasi nilai paling lambat sepuluh hari kerja setelah nilai 
+diumumkan. 
+(2) Perubahan nilai hanya dapat dilakukan apabila terdapat kesalahan penilaian, kesalahan input, atau 
+alasan akademik lain yang dapat diverifikasi. 
+BAB VI — STATUS AKADEMIK DAN CUTI 
+Pasal 19 — Cuti Akademik 
+(1) Mahasiswa dapat mengajukan cuti akademik setelah menempuh sekurang-kurangnya dua semester 
+aktif. 
+(2) Cuti akademik dapat diberikan paling banyak dua semester secara berturut-turut. 
+(3) Jumlah keseluruhan cuti akademik selama masa studi tidak boleh melebihi empat semester. 
+(4) Permohonan cuti hanya dapat disetujui apabila, setelah cuti tersebut diberikan, jumlah cuti berturut-
+turut tidak melebihi dua semester dan jumlah keseluruhan cuti tidak melebihi empat semester. 
+Pasal 20 — Status Tidak Aktif 
+(1) Mahasiswa yang tidak melakukan registrasi dan tidak memperoleh izin cuti akademik dinyatakan 
+berstatus tidak aktif. 
+(2) Semester tidak aktif tanpa izin tetap diperhitungkan dalam batas maksimum masa studi. 
+Pasal 21 — Aktif Kembali 
+(1) Mahasiswa yang telah menyelesaikan masa cuti wajib melakukan registrasi untuk memperoleh 
+kembali status aktif. 
+(2) Mahasiswa yang sebelumnya berstatus tidak aktif tanpa izin dapat diwajibkan memperoleh 
+persetujuan aktif kembali sebelum melakukan pengisian Kartu Rencana Studi. 
+BAB VII — MAGANG DAN KEGIATAN DI LUAR PROGRAM STUDI 
+Pasal 22 — Persyaratan Magang 
+(1) Mahasiswa dapat mengikuti magang apabila telah lulus sekurang-kurangnya 80 SKS. 
+(2) Pada saat mengajukan magang, mahasiswa harus memiliki IPK sekurang-kurangnya 2,50. 
+(3) Mahasiswa yang sedang menjalani sanksi akademik tidak diperkenankan mengikuti magang. 
+(4) Seluruh persyaratan SKS, IPK, dan status sanksi akademik harus dipenuhi secara bersamaan. 
+Aturan Akademik Sintetis — Dataset Praktikum RAG 
+Pasal 23 — Konversi Kegiatan Magang 
+(1) Kegiatan magang dapat dikonversi menjadi paling banyak 20 SKS dalam satu semester. 
+(2) Jumlah keseluruhan konversi kegiatan pembelajaran di luar program studi tidak boleh melebihi 40 
+SKS selama masa studi. 
+Pasal 24 — Penilaian Magang 
+(1) Nilai magang ditentukan berdasarkan evaluasi pembimbing lapangan dan dosen pembimbing. 
+(2) Mahasiswa wajib menyerahkan laporan akhir magang sebagai salah satu persyaratan untuk 
+memperoleh nilai. 
+BAB VIII — TUGAS AKHIR 
+Pasal 25 — Persyaratan Mengambil Tugas Akhir 
+(1) Mahasiswa dapat mengambil tugas akhir apabila telah lulus sekurang-kurangnya 120 SKS. 
+(2) Mahasiswa harus memiliki IPK sekurang-kurangnya 2,75. 
+(3) Jumlah mata kuliah bernilai D yang telah ditempuh mahasiswa tidak boleh melebihi total 6 SKS. 
+(4) Mahasiswa tidak boleh memiliki mata kuliah dengan nilai E. 
+(5) Mahasiswa harus telah lulus mata kuliah Metodologi Penelitian dengan nilai sekurang-kurangnya C. 
+(6) Mahasiswa harus telah lulus seluruh mata kuliah inti yang ditetapkan sebagai prasyarat tugas akhir 
+dengan nilai sekurang-kurangnya C. 
+(7) Mahasiswa harus berstatus aktif pada semester ketika mengambil tugas akhir. 
+(8) Seluruh persyaratan dalam pasal ini bersifat kumulatif. Mahasiswa yang tidak memenuhi salah satu 
+persyaratan belum diperkenankan mengambil tugas akhir. 
+Pasal 26 — Proposal Tugas Akhir 
+(1) Mahasiswa dapat mengajukan proposal tugas akhir setelah memperoleh calon dosen pembimbing. 
+(2) Proposal tugas akhir dinyatakan lulus apabila mahasiswa memperoleh nilai seminar proposal 
+sekurang-kurangnya 70. 
+(3) Mahasiswa yang memperoleh nilai seminar proposal kurang dari 70 wajib memperbaiki proposal dan 
+mengikuti evaluasi ulang. 
+Pasal 27 — Bimbingan Tugas Akhir 
+(1) Sebelum mendaftar ujian tugas akhir, mahasiswa wajib melakukan sekurang-kurangnya delapan kali 
+bimbingan yang terdokumentasi. 
+(2) Apabila tugas akhir dibimbing oleh lebih dari satu dosen, sekurang-kurangnya empat kali bimbingan 
+harus dilakukan bersama pembimbing utama. 
+Pasal 28 — Persyaratan Mengikuti Ujian Tugas Akhir 
+(1) Mahasiswa dapat mendaftar ujian tugas akhir apabila naskah tugas akhir telah memperoleh 
+persetujuan dosen pembimbing. 
+(2) Mahasiswa harus telah menyelesaikan sekurang-kurangnya 138 SKS di luar SKS tugas akhir. 
+Aturan Akademik Sintetis — Dataset Praktikum RAG 
+(3) Mahasiswa harus memiliki IPK sementara sekurang-kurangnya 2,75. 
+(4) Mahasiswa tidak boleh memiliki mata kuliah dengan nilai E. 
+(5) Mahasiswa harus telah melaksanakan sekurang-kurangnya delapan kali bimbingan yang 
+terdokumentasi. 
+(6) Mahasiswa harus memiliki nilai kemampuan bahasa Inggris sekurang-kurangnya 450 pada skala 
+ekuivalen TOEFL institusional. 
+(7) Seluruh persyaratan ujian tugas akhir harus dipenuhi secara bersamaan. 
+Pasal 29 — Kelulusan Ujian Tugas Akhir 
+(1) Nilai ujian tugas akhir dinyatakan dalam skala 0 sampai dengan 100. 
+(2) Mahasiswa dinyatakan lulus ujian tugas akhir apabila memperoleh nilai sekurang-kurangnya 70. 
+(3) Mahasiswa yang memperoleh nilai sekurang-kurangnya 60 tetapi kurang dari 70 wajib melakukan 
+revisi dan mengikuti ujian ulang. 
+(4) Mahasiswa yang memperoleh nilai kurang dari 60 dinyatakan tidak lulus dan wajib melakukan 
+perbaikan substansial sebelum dapat mengikuti ujian kembali. 
+BAB IX — YUDISIUM DAN KELULUSAN 
+Pasal 30 — Persyaratan Akademik Yudisium 
+(1) Mahasiswa dapat memenuhi persyaratan akademik yudisium apabila telah lulus sekurang-kurangnya 
+144 SKS sesuai dengan kurikulum. 
+(2) Mahasiswa harus memiliki IPK akhir sekurang-kurangnya 2,75. 
+(3) Mahasiswa tidak boleh memiliki mata kuliah dengan nilai E. 
+(4) Jumlah mata kuliah bernilai D tidak boleh melebihi total 6 SKS. 
+(5) Seluruh mata kuliah wajib dan mata kuliah inti harus memperoleh nilai sekurang-kurangnya C. 
+(6) Tugas akhir harus telah dinyatakan lulus dengan nilai sekurang-kurangnya C. 
+(7) Seluruh persyaratan akademik tersebut harus dipenuhi secara bersamaan. 
+Pasal 31 — Persyaratan Nonakademik Yudisium 
+(1) Mahasiswa wajib menyerahkan naskah final tugas akhir ke repositori institusi. 
+(2) Hasil pemeriksaan kemiripan naskah tugas akhir tidak boleh melebihi 25 persen, setelah 
+memperhitungkan pengecualian daftar pustaka dan kutipan sesuai ketentuan sistem pemeriksaan. 
+(3) Mahasiswa harus memiliki nilai kemampuan bahasa Inggris sekurang-kurangnya 450 pada skala 
+ekuivalen TOEFL institusional. 
+(4) Mahasiswa wajib menyelesaikan seluruh kewajiban administrasi. 
+(5) Mahasiswa tidak boleh memiliki pinjaman atau kewajiban yang belum diselesaikan pada 
+perpustakaan. 
+(6) Mahasiswa harus mengumpulkan sekurang-kurangnya 100 poin kegiatan kemahasiswaan. 
+(7) Seluruh persyaratan nonakademik tersebut harus dipenuhi secara bersamaan. 
+Aturan Akademik Sintetis — Dataset Praktikum RAG 
+Pasal 32 — Penetapan Kelayakan Yudisium 
+(1) Mahasiswa hanya dapat mengikuti yudisium apabila telah memenuhi seluruh persyaratan akademik 
+sebagaimana diatur dalam Pasal 30 dan seluruh persyaratan nonakademik sebagaimana diatur dalam 
+Pasal 31. 
+(2) Pemenuhan seluruh persyaratan akademik tidak dapat menggantikan persyaratan nonakademik yang 
+belum terpenuhi, demikian pula sebaliknya. 
+(3) Apabila satu atau lebih persyaratan yudisium belum terpenuhi, mahasiswa belum dapat ditetapkan 
+sebagai peserta yudisium. 
+Pasal 33 — Tanggal Kelulusan 
+(1) Tanggal kelulusan akademik mahasiswa adalah tanggal ditetapkannya keputusan yudisium. 
+(2) Penerbitan ijazah dilakukan setelah mahasiswa menyelesaikan seluruh prosedur administrasi 
+kelulusan. 
+Pasal 34 — Wisuda 
+(1) Mahasiswa yang telah dinyatakan lulus melalui yudisium dapat mendaftar wisuda pada periode yang 
+tersedia. 
+(2) Keikutsertaan atau ketidakikutsertaan mahasiswa dalam upacara wisuda tidak mengubah status 
+kelulusan akademik yang telah ditetapkan melalui yudisium. 
+BAB X — PREDIKAT KELULUSAN 
+Pasal 35 — Predikat Berdasarkan IPK 
+(1) Mahasiswa dengan IPK sekurang-kurangnya 2,75 tetapi kurang dari 3,00 memperoleh predikat 
+Memuaskan. 
+(2) Mahasiswa dengan IPK sekurang-kurangnya 3,00 tetapi kurang dari 3,51 memperoleh predikat Sangat 
+Memuaskan. 
+(3) Mahasiswa dengan IPK sekurang-kurangnya 3,51 dapat memperoleh predikat Dengan Pujian apabila 
+memenuhi seluruh persyaratan tambahan sebagaimana diatur dalam Pasal 36. 
+Pasal 36 — Persyaratan Predikat Dengan Pujian 
+(1) Predikat Dengan Pujian hanya dapat diberikan kepada mahasiswa yang memiliki IPK sekurang-
+kurangnya 3,51. 
+(2) Masa studi mahasiswa yang memperoleh predikat Dengan Pujian tidak boleh melebihi delapan 
+semester aktif. 
+(3) Mahasiswa yang memperoleh predikat Dengan Pujian tidak boleh pernah memperoleh nilai D maupun 
+E. 
+(4) Mahasiswa tidak boleh pernah mengulang mata kuliah karena memperoleh nilai tidak lulus. 
+(5) Mahasiswa tidak boleh pernah memperoleh sanksi atas pelanggaran akademik. 
+(6) IPK sekurang-kurangnya 3,51 tidak dengan sendirinya memberikan predikat Dengan Pujian apabila 
+salah satu persyaratan tambahan dalam pasal ini tidak terpenuhi. 
+Aturan Akademik Sintetis — Dataset Praktikum RAG 
+BAB XI — INTEGRITAS AKADEMIK 
+Pasal 37 — Plagiarisme 
+(1) Mahasiswa dilarang mengakui karya, gagasan, data, atau hasil pekerjaan pihak lain sebagai karya 
+sendiri tanpa pengakuan sumber yang semestinya. 
+(2) Hasil pemeriksaan kemiripan digunakan sebagai alat bantu pemeriksaan dan tidak dengan sendirinya 
+menentukan ada atau tidaknya plagiarisme. 
+Pasal 38 — Penggunaan Kecerdasan Artifisial 
+(1) Mahasiswa dapat menggunakan alat bantu berbasis kecerdasan artifisial dalam kegiatan akademik 
+sepanjang penggunaannya tidak dilarang oleh dosen atau ketentuan tugas. 
+(2) Apabila dosen atau program studi mewajibkan deklarasi penggunaan kecerdasan artifisial, mahasiswa 
+wajib menjelaskan alat yang digunakan dan bentuk penggunaannya. 
+(3) Mahasiswa tetap bertanggung jawab atas kebenaran, validitas, orisinalitas, sitasi, dan seluruh isi karya 
+yang diserahkan. 
+Pasal 39 — Kecurangan Ujian 
+(1) Penggunaan sumber, perangkat, komunikasi, atau bantuan yang tidak diizinkan selama ujian 
+merupakan pelanggaran akademik. 
+(2) Mahasiswa yang terbukti melakukan kecurangan dapat dikenai sanksi berupa nilai E pada komponen 
+ujian atau mata kuliah sesuai dengan tingkat pelanggaran dan prosedur yang berlaku. 
+Pasal 40 — Dampak Sanksi Akademik 
+(1) Mahasiswa yang sedang menjalani sanksi akademik dapat dibatasi untuk mengikuti kegiatan 
+akademik tertentu sesuai dengan jenis sanksinya. 
+(2) Mahasiswa yang pernah memperoleh sanksi atas pelanggaran akademik tidak memenuhi salah satu 
+persyaratan untuk memperoleh predikat Dengan Pujian sebagaimana diatur dalam Pasal 36. 
+BAB XII — KETENTUAN PENUTUP 
+Pasal 41 — Penerapan dan Keterkaitan Aturan 
+(1) Apabila program studi menetapkan persyaratan yang lebih tinggi daripada ketentuan dalam dokumen 
+ini, persyaratan yang lebih tinggi dapat diberlakukan sepanjang telah diumumkan secara resmi. 
+(2) Apabila penentuan status atau kelayakan mahasiswa memerlukan lebih dari satu persyaratan, seluruh 
+pasal yang berkaitan harus digunakan secara bersama-sama. 
+(3) Ketentuan terbaru yang telah ditetapkan secara resmi menggantikan ketentuan sebelumnya pada 
+topik yang sama. 
+  
+Aturan Akademik Sintetis — Dataset Praktikum RAG 
+LAMPIRAN — CONTOH KASUS UNTUK PENGUJIAN RAG 
+Kasus 1: Mahasiswa telah lulus 118 SKS, memiliki IPK 2,90, nilai D sebanyak 3 SKS, tidak memiliki nilai E, 
+telah lulus Metodologi Penelitian dengan nilai B, dan berstatus aktif. Tentukan apakah mahasiswa 
+tersebut telah memenuhi syarat mengambil tugas akhir. 
+Kasus 2: Mahasiswa telah lulus 124 SKS dan memiliki IPK 2,70. Seluruh persyaratan lain untuk tugas 
+akhir telah terpenuhi. Tentukan apakah mahasiswa tersebut dapat mengambil tugas akhir. 
+Kasus 3: Mahasiswa telah lulus 125 SKS, memiliki IPK 3,20, tidak memiliki nilai E, tetapi memperoleh 
+nilai D pada Metodologi Penelitian. Tentukan kelayakannya untuk mengambil tugas akhir. 
+Kasus 4: Mahasiswa telah menyelesaikan 140 SKS di luar tugas akhir, memiliki IPK 3,05, tidak memiliki 
+nilai E, telah melakukan delapan kali bimbingan, tetapi memiliki skor bahasa Inggris 440. Tentukan 
+apakah mahasiswa tersebut dapat mendaftar ujian tugas akhir. 
+Kasus 5: Mahasiswa telah lulus 144 SKS dengan IPK 3,40, memiliki 3 SKS nilai D dan tidak memiliki nilai 
+E. Tugas akhir telah lulus, similarity 18 persen, skor bahasa Inggris 475, poin kegiatan kemahasiswaan 
+120, dan seluruh kewajiban administrasi telah selesai. Tentukan apakah mahasiswa tersebut memenuhi 
+syarat yudisium. 
+Kasus 6: Mahasiswa lulus dengan IPK 3,72 dalam tujuh semester aktif, tidak pernah memperoleh nilai D 
+atau E, tetapi pernah memperoleh sanksi pelanggaran akademik. Tentukan apakah mahasiswa tersebut 
+memenuhi seluruh persyaratan predikat Dengan Pujian. 
